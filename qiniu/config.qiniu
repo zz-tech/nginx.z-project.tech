@@ -1,0 +1,5 @@
+{
+    "src_dir" : "/opt/nginx.org",
+    "bucket" : "nginx-doc",
+    "overwrite" : true
+}
